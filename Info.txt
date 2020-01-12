@@ -1,0 +1,32 @@
+https://www.brandsdistribution.com/en/
+
+Key API/35d892ed-c395-42bb-9fb6-e23a4bcb24e5
+
+Logo on
+Login: anetasm@gmail.com
+Password: Dropshiping2019
+
+Test SandBox:
+API Key: e30661ac-6344-4b96-84e2-0d26379cbde1
+https://idt2015.rewix.zero11.net
+walidkenawy@me.com
+poland2021
+
+My websit
+Secretlineltd.com/admin
+Logo : admin
+Pass:poland2020
+
+
+Login Details : Domain: secretlineltd.com
+Cpanel: secretlineltd.com/cpanel
+UserName: secretlineltd
+PassWord: wUau65U[m0Z1
+
+
+
+
+/restful/export/api/products.xml?acceptedlocales=en_US&output-filetype=xml&since=2019-06- 21T17:05:12.322+03:00
+
+DELETE PRODUCTS
+http://secretlineltd.com/catalog/controller/tool/load.php?done=manufacturer
